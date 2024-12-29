@@ -1,0 +1,4 @@
+Laptop 200
+Mouse 50
+Keyboard 150
+Monitor 200

@@ -1,0 +1,5 @@
+﻿  Online store management system.cpp
+C:\Users\fux4i\source\repos\Online store management system\Online store management system\Online store management system.cpp(428,29): warning C4101: 'ex': unreferenced local variable
+C:\Users\fux4i\source\repos\Online store management system\Online store management system\Online store management system.cpp(455,29): warning C4101: 'ex': unreferenced local variable
+C:\Users\fux4i\source\repos\Online store management system\Online store management system\Online store management system.cpp(484,29): warning C4101: 'ex': unreferenced local variable
+  Online store management system.vcxproj -> C:\Users\fux4i\source\repos\Online store management system\x64\Debug\Online store management system.exe

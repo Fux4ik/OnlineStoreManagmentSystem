@@ -1,0 +1,5 @@
+JohnDoe Laptop 1 123MapleStreet Delivered
+JaneSmith Phone 2 456OakAvenue OnWay
+AliceJohnson Tablet 1 789PineRoad Waiting
+BobBrown Monitor 3 321BirchLane Accepted
+EveDavis Keyboard 5 654ElmStreet Returning
